@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Harshit Mahajan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">👀 I’m interested in:
+ Data Science and Machine learning, 
+ particulary interested in Data Wrangling (Cleaning the data fascinates me), 
+ Exploratory Data Analysis (Without this how can i Live)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit1531&label=Profile%20views&color=0e75b6&style=flat" alt="harshit1531" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit1531" alt="harshit1531" /></a> </p>
 
-- 📫 How to reach me **harshitoffice15@gmail.com**
+- 📫 Reach me on **harshitoffice15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
