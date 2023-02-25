@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshit Mahajan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit1531&label=Profile%20views&color=0e75b6&style=flat" alt="harshit1531" /> </p>
+
 # 💫 About Me:
 👀 I’m interested in:<br> Data Science and Machine learning, <br> particulary interested in Data Wrangling (Cleaning the data fascinates me), <br> Exploratory Data Analysis (Without this how can i Live)<br> and Mostly in the field of Classical Machine Learning (For Now)<br><br>🌱 I’m currently learning and Working on:<br> Machine learning Models and Working on some capstone projects.<br><br>💞️ I’m looking to collaborate on:<br> Any data science and machine learning related projects
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit1531) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshit_1531) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21259673) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@harshit1531) 
@@ -22,6 +22,3 @@
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=harshit1531&icon=0&color=1)](https://visitcount.itsvg.in)
