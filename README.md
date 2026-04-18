@@ -70,14 +70,14 @@
 
 ## 🗂️ Featured Projects
 
-### 🩺 Diabetes Risk Prediction
+### 🩺 [Diabetes Risk Prediction](https://github.com/harshit1531/Healthcare-Predicting-Diabetes-A-Data-Driven-Approach-to-Understanding-and-Treating-Chronic-Diseases)
 > Python · Scikit-learn · Pandas · Tableau
 
 Built logistic regression and decision tree classifiers achieving **78%+ accuracy**. Applied SMOTE to handle class imbalance and designed an interactive Tableau dashboard segmenting patients by risk tier to support clinical prioritisation.
 
 ---
 
-### 📡 Telecom Complaint Analysis
+### 📡 [Telecom Complaint Analysis](https://github.com/harshit1531/Comcast-Telecom-Consumer-Complaints-Analysis)
 > Python · Seaborn · Tableau · Excel
 
 Analysed 1,000+ service records to engineer KPIs for closure rate, escalation frequency, and service delays — surfacing CX performance gaps through interactive dashboards.
